@@ -1,0 +1,8 @@
+
+header background color: #504a40
+menu background color: rgb(61, 56, 11)
+red box color: #A8261D
+grey color: #9F7136
+blue color: #365A8E
+
+
